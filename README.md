@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andreimandrique
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on project involving Rest API 
+- 💞️ I’m looking to collaborate on simple project written in javascript
 - 📫 How to reach me gmail andreimandrique3@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a 6 pack abs
