@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andreimandrique
-- 👀 I’m interested in web development and rest API
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript in The Odin Project
 - 😍 I'm currently studying in MFI Polytechnic Institute
 - 💞️ I’m looking to collaborate on simple project written in javascript
