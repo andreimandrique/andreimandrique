@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning web development in The Odin Project
 - 😍 I'm currently studying in MFI Polytechnic Institute
-- 💞️ I’m looking to collaborate on simple project written in javascript and python
+- 💞️ I’m looking to collaborate on project written in javascript or python
 - 📫 How to reach me gmail andreimandrique3@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a 6 pack abs
